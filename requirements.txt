@@ -1,0 +1,10 @@
+binance-python
+coinbasepro-python
+requests
+pandas
+numpy
+asyncio
+aiohttp
+pytest
+requests
+web3
